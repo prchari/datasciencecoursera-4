@@ -95,19 +95,19 @@ The four plots that you will need to construct are shown below.
 ### Plot 1
 
 
-![plot1](C:\Users\prchari\Documents\datasciencecoursera\datasciencecoursera-4\plot1.png) 
+![plot1](https://github.com/prchari/datasciencecoursera-4/blob/master/plot1.png) 
 
 
 ### Plot 2
 
-![plot2](C:\Users\prchari\Documents\datasciencecoursera\datasciencecoursera-4\plot2.png) 
+![plot2](https://github.com/prchari/datasciencecoursera-4/blob/master/plot2.png) 
 
 
 ### Plot 3
 
-![plot3](C:\Users\prchari\Documents\datasciencecoursera\datasciencecoursera-4\plot3.png) 
+![plot3](https://github.com/prchari/datasciencecoursera-4/blob/master/plot3.png) 
 
 
 ### Plot 4
 
-![plot4](C:\Users\prchari\Documents\datasciencecoursera\datasciencecoursera-4\plot4.png) 
+![plot4](https://github.com/prchari/datasciencecoursera-4/blob/master/plot4.png) 
